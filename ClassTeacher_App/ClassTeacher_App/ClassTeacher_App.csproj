@@ -106,6 +106,7 @@
     <Compile Include="Classes\Teacher.cs" />
     <Compile Include="DBConnection.cs" />
     <Compile Include="Managers\ClassesManager.cs" />
+    <Compile Include="Managers\ScoreandAvarageManager.cs" />
     <Compile Include="Managers\StudentsManager.cs" />
     <Compile Include="Managers\SubjectsManager.cs" />
     <Compile Include="Managers\TeachersManager.cs" />

@@ -1,0 +1,26 @@
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\Test_ClassTeacherAPI.dll
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\Test_ClassTeacherAPI.pdb
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.csprojResolveAssemblyReference.cache
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.dll
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.pdb
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\ApplicationInsights.config
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\ClassTeacherAPI.dll
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\MySql.Data.dll
+C:\Users\Matsinhe\documents\visual studio 2015\Projects\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\ClassTeacherAPI.pdb
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\ApplicationInsights.config
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\Test_ClassTeacherAPI.dll
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\Test_ClassTeacherAPI.pdb
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\ClassTeacherAPI.dll
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\MySql.Data.dll
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\bin\Debug\ClassTeacherAPI.pdb
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.dll
+C:\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.pdb
+C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\Test_ClassTeacherAPI\bin\Debug\Test_ClassTeacherAPI.dll
+C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\Test_ClassTeacherAPI\bin\Debug\Test_ClassTeacherAPI.pdb
+C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\Test_ClassTeacherAPI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.csprojResolveAssemblyReference.cache
+C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.dll
+C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\Test_ClassTeacherAPI\obj\Debug\Test_ClassTeacherAPI.pdb

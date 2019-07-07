@@ -195,5 +195,70 @@ namespace ClassTeacher_App
 
         }
 
+
+        //version 3.0------------------------------------------------------------------------------
+        public List<Student> getStudentsBySubject(int subjectID)
+        {
+            List<Student> students = new List<Student>();
+
+            try
+            {
+                StudentsManager _studentsManager = new StudentsManager();
+
+                students = _studentsManager._getStudentsPerSubject(subjectID: subjectID);
+
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return students;
+        }
+
+
+        public List<Student> getStudentByLastName(string lastName)
+        {
+            List<Student> students = new List<Student>();
+
+            try
+            {
+                StudentsManager _studentsManager = new StudentsManager();
+
+                students = _studentsManager._getStudentByLastName(lastName: lastName);
+
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return students;
+        }
+
+
+        public Boolean setScorePerSubject(double score, int studentID, int subjectID)
+        {
+            bool done = true;
+
+            try
+            {
+                ScoreandAvarageManager manager = new ScoreandAvarageManager();
+
+                done = manager._setScorePerSubject(studentID: studentID, subjectID: subjectID, score: score);
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+
+            return done;
+
+        }
+
     }
 }

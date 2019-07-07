@@ -1,4 +1,3 @@
-C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\obj\Debug\ClassTeacher_App.csprojResolveAssemblyReference.cache
 C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\bin\ApplicationInsights.config
 C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\bin\ClassTeacher_App.dll.config
 C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\bin\ClassTeacher_App.dll
@@ -18,3 +17,4 @@ C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\bin\
 C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\bin\Microsoft.ApplicationInsights.xml
 C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\obj\Debug\ClassTeacher_App.dll
 C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\obj\Debug\ClassTeacher_App.pdb
+C:\Users\Matsinhe\Desktop\AppClassTeacher\ClassTeacher_App\ClassTeacher_App\obj\Debug\ClassTeacher_App.csprojResolveAssemblyReference.cache

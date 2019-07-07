@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassTeacher_App", "ClassTeacher_App\ClassTeacher_App.csproj", "{617B98EC-1D7C-4922-8CAE-18E4DF940289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_ClassTeacherAPI", "..\..\..\..\..\inetpub\wwwroot\ClassTeacherAPI\Test_ClassTeacherAPI\Test_ClassTeacherAPI.csproj", "{97832F29-F50A-42C7-8A4F-2CE05AEF90BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_ClassTeacherAPI", "Test_ClassTeacherAPI\Test_ClassTeacherAPI.csproj", "{97832F29-F50A-42C7-8A4F-2CE05AEF90BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

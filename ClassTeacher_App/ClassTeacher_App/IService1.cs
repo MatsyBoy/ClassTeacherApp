@@ -50,6 +50,16 @@ namespace ClassTeacher_App
 
 
 
+        //third branch----------------------------------------------------------------------------
+        [OperationContract]
+        List<Student> getStudentsBySubject(int subjectID);
+
+        [OperationContract]
+        List<Student> getStudentByLastName(string lastName);
+
+        [OperationContract]
+        Boolean setScorePerSubject(double score, int studentID, int subjectID);
+
     }
 
 
