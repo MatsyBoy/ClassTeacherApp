@@ -32,6 +32,24 @@ namespace ClassTeacher_App
         //bool addNewStudentToNewClass(Student _Student, Class _class);
 
 
+
+
+        ////Second branch----------------------------------------------------------------
+
+        [OperationContract]
+        Boolean updateClasseName(int _ClassID, string _newName);
+
+        [OperationContract]
+        Boolean updateStudentDetails(int _studentID, string _firstName, string _middleName, string _lastName, DateTime _dateOfBirth);
+
+        [OperationContract]
+        List<Subject> getSubjectsPerStudent(int studentID);
+
+        [OperationContract]
+        bool addSubjectToStudent(int studentID, int classID);
+
+
+
     }
 
 

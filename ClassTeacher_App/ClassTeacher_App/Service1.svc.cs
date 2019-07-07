@@ -106,5 +106,94 @@ namespace ClassTeacher_App
 
         //} 
 
+
+        //version2.0----------------------------------------------------------------------------
+        public Boolean updateClasseName(int _ClassID, string _newName)
+        {
+            bool done = true;
+            try
+            {
+                ClassesManager _classManager = new ClassesManager();
+
+                done = _classManager._updateClasseName(_ClassID: _ClassID, _newName: _newName);
+
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return done;
+        }
+
+
+        public Boolean updateStudentDetails(int _studentID, string _firstName, string _middleName, string _lastName, DateTime _dateOfBirth)
+        {
+            bool done = true;
+
+            try
+            {
+                StudentsManager _studentsManager = new StudentsManager();
+
+                done = _studentsManager._updateStudentDetails(_studentID: _studentID,
+                                                               _firstName: _firstName,
+                                                                _middleName: _middleName,
+                                                                 _lastName: _lastName,
+                                                                  _dateOfBirth: _dateOfBirth);
+
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return done;
+        }
+
+
+        public List<Subject> getSubjectsPerStudent(int studentID)
+        {
+            List<Subject> subjects = new List<Subject>();
+
+            try
+            {
+                SubjectsManager _subjectsManager = new SubjectsManager();
+
+                subjects = _subjectsManager._getSubjectsPerStudent(studentID: studentID);
+
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return subjects;
+        }
+
+
+        public bool addSubjectToStudent(int studentID, int subjectID)
+        {
+            bool done = true;
+
+            try
+            {
+                SubjectsManager manager = new SubjectsManager();
+
+                done = manager._addSubjectToStudent(studentID: studentID, subjectID: subjectID);
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+
+            return done;
+
+        }
+
     }
 }
