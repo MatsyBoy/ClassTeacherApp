@@ -60,6 +60,17 @@ namespace ClassTeacher_App
         [OperationContract]
         Boolean setScorePerSubject(double score, int studentID, int subjectID);
 
+
+        // fourth branch-----------------------------------------------------------------------------
+        [OperationContract]
+        StudentScore calculateTotalScoreAndAvaragePerStudent(int studentID);
+
+        //[OperationContract]
+        //Boolean calculateTotalScoreAvaragePerClass(int classID);
+
+        ////[OperationContract]
+        ////Boolean setScorePerStudent(double score, int studentID);
+
     }
 
 

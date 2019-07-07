@@ -260,5 +260,31 @@ namespace ClassTeacher_App
 
         }
 
+
+
+
+        //version 4.0---------------------------------------------------------------------------------
+        public StudentScore calculateTotalScoreAndAvaragePerStudent(int studentID)
+        {
+
+            StudentScore _studentsScore = new StudentScore();
+
+            try
+            {
+                ScoreandAvarageManager Manager = new ScoreandAvarageManager();
+
+                _studentsScore = Manager._calculateTotalScoreAndAvaragePerStudent(studentID: studentID);
+
+
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+
+            return _studentsScore;
+
+        }
+
     }
 }
